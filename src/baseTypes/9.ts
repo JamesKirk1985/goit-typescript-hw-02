@@ -17,8 +17,8 @@ const page1: Page = {
   accounts: ["Max", "Anton", "Nikita"],
   status: "open",
   details: {
-    createAt: new Date("2021-01-01"),
-    updateAt: new Date("2021-05-01"),
+    createAt: Date,
+    updateAt: Date,
   },
 };
 
